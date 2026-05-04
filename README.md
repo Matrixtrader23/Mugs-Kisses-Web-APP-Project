@@ -2,7 +2,7 @@
 
 **Mugs & Kisses** is a modern, responsive, and beautifully designed boutique coffee shop and bakery web application. It features a premium "Boutique Minimalism" aesthetic with advanced glassmorphism UI elements, providing users with a seamless browsing and ordering experience.
 
-![Home page](public/home page.png) <!-- Ensure you upload the actual images to GitHub -->
+![Home page](screenshots/home page.png) <!-- Ensure you upload the actual images to GitHub -->
 
 ## ✨ Features
 
